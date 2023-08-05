@@ -1,9 +1,12 @@
 keras==2.13.1
-matplotlib==3.7.1
-numpy==1.20.3
-pandas==1.5.3
 pandas_datareader==0.10.0
-scikit_learn==1.2.2
+matplotlib==3.7.1
+pandas==1.5.3
+scikit-learn==1.2.2
 streamlit==1.25.0
 yfinance==0.2.26
 tensorflow==2.6.0
+
+
+
+
