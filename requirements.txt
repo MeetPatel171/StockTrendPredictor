@@ -6,3 +6,4 @@ pandas_datareader==0.10.0
 scikit_learn==1.2.2
 streamlit==1.25.0
 yfinance==0.2.26
+tensorflow==2.6.0
