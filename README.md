@@ -13,3 +13,9 @@ To use the application, follow these steps:
 Enter the stock ticker symbol (e.g., AAPL for Apple Inc.) in the text input and press enter.
 
 The application will display the stock's historical data, closing price vs. time charts, and a chart showing the predicted price vs. original price.
+
+## Note
+
+Please make sure to have a reliable internet connection to fetch the latest stock data from Yahoo Finance.
+
+Disclaimer: This application is for educational purposes only and should not be used for making financial decisions. Stock market predictions are inherently uncertain and subject to various factors beyond the scope of this application.
