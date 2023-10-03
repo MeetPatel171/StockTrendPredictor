@@ -29,6 +29,7 @@ ma100 = df.Close.rolling(100).mean()
 fig = plt.figure(figsize=(12,6))
 plt.plot(ma100, 'r')
 plt.plot(df.Close, 'b')
+plt.legend()
 st.pyplot(fig)
 
 
@@ -39,6 +40,7 @@ fig = plt.figure(figsize=(12,6))
 plt.plot(ma100, 'r')
 plt.plot(ma200, 'g')
 plt.plot(df.Close, 'b')
+plt.legend()
 st.pyplot(fig)
 
 #splitting the data into training and testing
